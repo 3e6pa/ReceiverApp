@@ -1,0 +1,2 @@
+# ReceiverApp
+BOOT_COMPLETED
